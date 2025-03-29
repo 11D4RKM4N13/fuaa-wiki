@@ -15,3 +15,9 @@ Diseñar e implementar un sistema de información seguro y eficiente para la ges
 2. Implementar medidas de seguridad tanto técnicas (como cifrado y autenticación multifactor) como organizacionales (capacitaciones y políticas de seguridad).
 3. Asegurar la sincronización diaria entre la base de datos interna y el sitio web, estableciendo mecanismos de monitoreo y alertas proactivas.
 4. Documentar y aplicar buenas prácticas de ciberseguridad para garantizar la protección de datos personales y financieros dentro del sistema.
+
+### Referencias
+
+* GitHub pages. (n.d.). GitHub Pages. https://pages.github.com/
+* Deployment | Docusaurus. (2025, January 3). https://docusaurus.io/docs/deployment#deploying-to-github-pages
+* Build optimized websites quickly, focus on your content | Docusaurus. (n.d.). https://docusaurus.io/
