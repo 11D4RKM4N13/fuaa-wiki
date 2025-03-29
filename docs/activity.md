@@ -50,3 +50,7 @@ Como ingenieros recomendamos crear un diagrama que refleje la relación entre lo
 5. Realizar capacitaciones de seguridad para los empleados de la agencia
 
 # Conclusiones
+
+El desarrollo del sistema de información para la agencia inmobiliaria representa un desafío técnico y de seguridad que hemos abordado mediante un enfoque estructurado y basado en buenas prácticas de ingeniería de software. A lo largo del proyecto, identificamos los principales riesgos asociados, como la pérdida de datos, el acceso no autorizado y las vulnerabilidades web, proponiendo estrategias de mitigación efectivas, incluyendo autenticación segura, cifrado de datos y pruebas de seguridad periódicas.
+Asimismo, implementamos un plan de acción orientado a garantizar la disponibilidad, integridad y confidencialidad de la información, asegurando un sistema eficiente, escalable y alineado con las necesidades del negocio. La automatización de la comunicación con clientes y la integración de un sitio web actualizado refuerzan la operatividad del sistema y mejoran la experiencia del usuario.
+Finalmente, destacamos la importancia de adoptar medidas de ciberseguridad continuas, como la actualización de dependencias, el uso de firewalls y VPNs, y la capacitación del personal en buenas prácticas de seguridad. Con esta solución, no solo optimizamos la gestión inmobiliaria, sino que también garantizamos un entorno confiable para todos los actores involucrados en el proceso.
