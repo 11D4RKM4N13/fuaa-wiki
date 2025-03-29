@@ -19,12 +19,12 @@ const config = {
 
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/fuaa-wiki.github.io/',
+  baseUrl: '/fuaa-wiki/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: '11D4RKM4N13', // Usually your GitHub org/user name.
-  projectName: 'fuaa-wiki.github.io', // Usually your repo name.
+  projectName: 'fuaa-wiki', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
