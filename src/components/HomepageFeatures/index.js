@@ -24,6 +24,13 @@ const FeatureList = [
       <></>
     ),
   },
+  {
+    title: 'Andres Girón Vera',
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    description: (
+      <></>
+    ),
+  },
 ];
 
 function Feature({Svg, title, description}) {
